@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace EMP_record_management.Models
-
+//model
 {
     internal class emp
     {
